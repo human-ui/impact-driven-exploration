@@ -5,11 +5,11 @@ future==0.18.2
 gitdb2==2.0.6
 GitPython==3.0.5
 gym==0.15.4
-gym-super-mario-bros==7.3.0
+# gym-super-mario-bros==7.3.0
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-nes-py==8.1.1
+# nes-py==8.1.1
 numpy==1.17.4
 olefile==0.46
 opencv-python==4.1.2.30
@@ -24,4 +24,4 @@ smmap2==2.0.5
 torch==1.1.0
 torchvision==0.3.0
 tqdm==4.40.2
-vizdoom==1.1.7
+# vizdoom==1.1.7
